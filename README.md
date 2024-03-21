@@ -15,7 +15,7 @@ Follow these steps to install the project on your local machine:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/project-name.git](https://github.com/KyloRen04/StoryBook.git)
+git clone https://github.com/KyloRen04/StoryBook.git
 
 Navigate to the project directory:
 
