@@ -46,3 +46,6 @@ Prop Types - Runtime type checking for React props
 
 Authors
 Akshat Kumar
+
+![StoryBook](https://github.com/KyloRen04/StoryBook/assets/106383452/b216498c-5d0b-4f76-a54f-8aa115ab9bf2)
+
